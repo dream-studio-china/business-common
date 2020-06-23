@@ -30,7 +30,7 @@
 
     "autoload": {
         "psr-4": {
-            "RinProject\\BusinessCommonBundle": "src/"
+            "RinProject\\BusinessCommonBundle\\": "src/"
         }
     },
     "autoload-dev": {
